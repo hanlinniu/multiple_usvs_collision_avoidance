@@ -22,3 +22,30 @@ $ CA_dynamic_2.m
 
 For avoiding both static and dynamic obstacles:
 $ CA_static_dynamic.m
+
+
+### Paper
+If you use this code in your research, please cite our paper:
+```
+@inproceedings{niu2017usv,
+  title={USV geometric collision avoidance algorithm for multiple marine vehicles},
+  author={Niu, Hanlin and Savvaris, Al and Tsourdos, Antonios},
+  booktitle={OCEANS 2017-Anchorage},
+  pages={1--10},
+  year={2017},
+  organization={IEEE}
+}
+```
+
+```
+@article{oh2014development,
+  title={Development of collision avoidance algorithms for the c-enduro usv},
+  author={Savvaris, A and Niu, H and Oh, Hyondong and Tsourdos, A},
+  journal={IFAC Proceedings Volumes},
+  volume={47},
+  number={3},
+  pages={12174--12181},
+  year={2014},
+  publisher={Elsevier}
+}
+```
